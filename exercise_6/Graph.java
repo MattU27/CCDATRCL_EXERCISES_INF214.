@@ -51,16 +51,16 @@ public class Graph {
         myGraph.edge[3].src = "Chas";
         myGraph.edge[3].dest = "Oli";
 
-		// Edge 5
-		myGraph.edge[4].src = "Chas";
+	// Edge 5
+	myGraph.edge[4].src = "Chas";
         myGraph.edge[4].dest = "Conan";
 
-		// Edge 6
-		myGraph.edge[5].src = "Ja";
+	// Edge 6
+	myGraph.edge[5].src = "Ja";
         myGraph.edge[5].dest = "Conan";
 
-		// Edge 7
-		myGraph.edge[6].src = "Conan";
+	// Edge 7
+	myGraph.edge[6].src = "Conan";
         myGraph.edge[6].dest = "Che";
 
 
